@@ -1,0 +1,98 @@
+[num clipnums] = VideoClips('DickVanDyke.mp4', 'DVD');
+clipnums
+
+clipnums =
+
+  Columns 1 through 11
+
+           1         237         282         537         817         845         924        1318        1571        1939        2004
+
+  Columns 12 through 22
+
+        2252        2381        2712        2747        2791        2834        3094        3269        3351        3465        3480
+
+  Columns 23 through 33
+
+        3773        3865        4069        4158        4217        4250        4325        4411        4437        4482        4548
+
+  Columns 34 through 36
+
+        4631        4687        4803
+
+[num clipnums] = VideoClips('Tennis.mp4', 'TennisPart');
+clipnums
+
+clipnums =
+
+  Columns 1 through 11
+
+           1          31         274         302         947        1003        1007        1011        1484        1502        2199
+
+  Columns 12 through 15
+
+        2237        3043        3063        3654
+
+num
+
+num =
+
+      15
+
+[num clipnums] = VideoClips('Letterman.mp4', 'LettermanPart');
+num
+
+num =
+
+     12
+
+clipnums
+
+clipnums =
+
+  Columns 1 through 11
+
+           1         848         968        1044        1192        1239        1306        1381        1699        1850        4009
+
+  Column 12
+
+        4190
+
+[num clipnums] = VideoClips('2001movie.mp4', '2001moviePart');
+num
+
+num =
+
+    13
+
+clipnums
+
+clipnums =
+
+  Columns 1 through 11
+
+           1          64         218         352         515         668         770        1040        1573        2138        2352
+
+  Columns 12 through 13
+
+        2488        2698
+
+[num clipnums] = VideoClips('VaqueroWACV11.mp4', 'VaqueroVACV11Part');
+num
+
+num =
+
+     15
+
+clipnums
+
+clipnums =
+
+  Columns 1 through 11
+
+           1         524         602         705         917        1011        1250        1255        1471        1742        1958
+
+  Columns 12 through 15
+
+        2003        2206        2304        2575
+
+diary off
